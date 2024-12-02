@@ -1,0 +1,7 @@
+bookmovie
+1) click all movie show movie list
+2) in movie list short by date,rate,popularity
+3) click on movie poster than show movie detail
+4) you can book movie seat go movie detail and reserve your number of seat as your wish
+5) if total number of booking seat is 10 than user not reserve his seat
+6) user are view cart anytime 

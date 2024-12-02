@@ -1,0 +1,25 @@
+.mainviewcart .cart-card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px;
+    background-color: #0c0e32;
+  }
+.mainviewcart .cart-card img {
+    max-width: 100px;
+    border-radius: 8px;
+  }
+  .mainviewcart  .cart-card .item-details {
+    margin-left: 15px;
+  }
+  .mainviewcart   .cart-card .item-details h5 {
+    font-size: 16px;
+  }
+  .mainviewcart   .cart-card .item-details p {
+    font-size: 14px;
+    color: #777;
+  }
+  .mainviewcart   .cart-card .item-price {
+    font-size: 16px;
+    font-weight: bold;
+  }

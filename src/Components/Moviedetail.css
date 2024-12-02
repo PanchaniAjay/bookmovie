@@ -1,0 +1,26 @@
+body {
+    background-color: #001d33;
+    color: #ffffff;
+  }
+  
+  h2, h4, h5 {
+    color: #ffffff;
+  }
+  
+  .text-info {
+    color: #00bcd4 !important;
+  }
+  
+  button {
+    font-size: 0.9rem;
+  }
+.bg{
+    background-color: #002244;
+    border-radius: 10px;
+}  
+.bg2{
+width: 100px;
+
+border-radius: 5px;
+}
+

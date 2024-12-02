@@ -1,0 +1,12 @@
+.navbar-nav {
+  flex-grow: 1;
+  justify-content: center;
+}
+.logo{
+  width: 94px;
+  height: 4px;
+  color: blueviolet;
+  font-style: oblique;
+  font-weight:800;
+  
+}
